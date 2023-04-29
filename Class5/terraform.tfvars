@@ -1,0 +1,5 @@
+instance_name = "kaizen"
+machine_type = "e2-medium"
+zone = "us-central1-a"
+billing = "013466-1059B8-8B6CA5"
+project_id = "kaizen-123"
